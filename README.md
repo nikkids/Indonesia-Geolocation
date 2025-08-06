@@ -1,10 +1,13 @@
-# 🌍 Geolocation Analysis of Online Political Discourse in Indonesia
+<img width="2706" height="1042" alt="image" src="https://github.com/user-attachments/assets/b4c08ecd-6b75-468c-9ece-ade13b630c31" /># 🌍 Geolocation Analysis of Online Political Discourse in Indonesia
 
 This project investigates the geographic distribution of political sentiment and hate speech in Indonesian online conversations. By leveraging geospatial data and visual analytics, we aim to uncover regional patterns and potential hotspots of polarization across the archipelago.
 
 ## 🧾 Project Overview
 
 The rise of social media has reshaped how political opinions are expressed and spread. This project analyzes geocoded social media content to understand how political discourse—both constructive and harmful—varies spatially across Indonesia.
+
+<img width="2706" height="1042" alt="image" src="https://github.com/user-attachments/assets/7b746189-1369-41fd-b08a-c8c85d234ace" />
+
 
 ## 📌 Key Features
 
